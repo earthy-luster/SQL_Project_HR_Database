@@ -1,17 +1,16 @@
 # SQL_Project_HR_Database
 
-# I have attached another SQL file which consists of the code to load the whole hr database in the workbench.
+I have attached another SQL file which consists of the code to load the whole hr database in the workbench.
 
-# The Word copy of the above is also made available.
+ The Word copy of the above is also made available.
 
-# This is an SQL project based on a 'human resources  database.
+This is an SQL project based on a 'human resources  database.
 
+WE USE THE 'HR' IN THE HUMAN RESOURCES DATABASE FOR THIS PROJECT. 
 
- # WE USE THE 'HR' IN THE HUMAN RESOURCES DATABASE FOR THIS PROJECT. 
+LET ME DESCRIBE AS TO WHAT THE DATABASE CONSISTS OF : 
 
- # LET ME DESCRIBE AS TO WHAT THE DATABASE CONSISTS OF : 
-
- # 'HR' HAS 7 TABLES :
+'HR' HAS 7 TABLES :
                     
                     > COUNTRIES   :  country_id , country_name , region_id                                                                                                   : ( 3 columns * 25 rows )
                    
